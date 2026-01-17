@@ -3,16 +3,13 @@ I am a passionate software developer with a strong foundation in Object-Oriented
 
 My primary focus is on building scalable web applications using Java, Spring Boot, and REST APIs. I enjoy solving complex problems using data structures and have hands-on experience integrating backend applications with databases using Hibernate/JPA.
 
+
 💻 Technical Stack:
-Backend: Core Java, Spring Boot, Spring MVC, REST APIs, Hibernate/JPA
-
-Data Structures: Arrays, Strings, Linked Lists, Trees, Graphs, Algorithms
-
-Database: MySQL, Oracle, SQL
-
-Frontend: HTML, CSS, JavaScript, React JS
-
-Tools: Eclipse, STS, VS Code, Postman, Git/GitHub
+    Backend: Core Java, Spring Boot, Spring MVC, REST APIs, Hibernate/JPA
+    Data Structures: Arrays, Strings, Linked Lists, Trees, Graphs, Algorithms
+    Database: MySQL, Oracle, SQL
+    Frontend: HTML, CSS, JavaScript, React JS
+    Tools: Eclipse, STS, VS Code, Postman, Git/GitHub
 
 🚀 Key Project:
 Full-Stack E-Commerce Application – Currently developing a robust web application featuring RESTful API integration, CRUD operations, user validation, and centralized exception handling.
