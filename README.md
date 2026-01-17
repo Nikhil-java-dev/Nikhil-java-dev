@@ -1,6 +1,21 @@
 # 💫 About Me:
-I am a Java Full-Stack Trainee with a strong foundation in Java backend development and hands-on experience using Spring Boot to build RESTful web applications.<br><br>Currently developing a full-stack e-commerce web application, where I am implementing REST APIs, business logic, and database integration using Hibernate/JPA and MySQL. Familiar with Spring MVC layered architecture, CRUD operations, validation, and exception handling.<br><br>Actively training at QSpiders, gaining practical exposure to Java Full-Stack technologies, including backend development and basic frontend using HTML, CSS, JavaScript, and React JS.<br><br>Motivated to start my career as an entry-level Java / Spring Boot Developer or Java Full-Stack Developer, where I can contribute, learn, and grow in a professional development environment
+I am a passionate software developer with a strong foundation in Object-Oriented Programming and Backend Development. I have completed my MCA from the School of Management Sciences, Varanasi, and I am currently refining my industry-ready skills at QSpiders.
 
+My primary focus is on building scalable web applications using Java, Spring Boot, and REST APIs. I enjoy solving complex problems using data structures and have hands-on experience integrating backend applications with databases using Hibernate/JPA.
+
+💻 Technical Stack:
+Backend: Core Java, Spring Boot, Spring MVC, REST APIs, Hibernate/JPA
+Data Structures: Arrays, Strings, Linked Lists, Trees, Graphs, Algorithms
+Database: MySQL, Oracle, SQL
+Frontend: HTML, CSS, JavaScript, React JS
+Tools: Eclipse, STS, VS Code, Postman, Git/GitHub
+
+🚀 Key Project:
+Full-Stack E-Commerce Application – Currently developing a robust web application featuring RESTful API integration, CRUD operations, user validation, and centralized exception handling.
+
+I am actively seeking opportunities as an Entry-Level Java Developer or Full-Stack Engineer where I can apply my skills and grow in a challenging environment.
+
+📩 Open to opportunities: srivastavanikhil756@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-srivastava-7a2266298) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@NIKHIL) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srivastavanikhil756@gmail.com) 
