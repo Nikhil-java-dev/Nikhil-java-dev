@@ -5,9 +5,13 @@ My primary focus is on building scalable web applications using Java, Spring Boo
 
 💻 Technical Stack:
 Backend: Core Java, Spring Boot, Spring MVC, REST APIs, Hibernate/JPA
+
 Data Structures: Arrays, Strings, Linked Lists, Trees, Graphs, Algorithms
+
 Database: MySQL, Oracle, SQL
+
 Frontend: HTML, CSS, JavaScript, React JS
+
 Tools: Eclipse, STS, VS Code, Postman, Git/GitHub
 
 🚀 Key Project:
