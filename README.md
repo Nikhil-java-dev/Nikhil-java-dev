@@ -1,13 +1,10 @@
 # 💫 About Me:
 Java Backend Developer | MCA
 
-• Java, Spring Boot, REST APIs, Hibernate/JPA
-
-• Strong in OOP & Data Structures
-
-• Building scalable backend & full-stack applications
-
-• Currently developing a Spring Boot + React e-commerce project
+• Java, Spring Boot, Spring MVC, REST APIs, Hibernate/JPA  
+• Strong in OOP & Data Structures  
+• Building scalable backend and full-stack web applications  
+• Currently developing a Spring Boot + React e-commerce project  
 
 🎯 Open to Entry-Level Java Developer / Full-Stack Engineer roles
 
