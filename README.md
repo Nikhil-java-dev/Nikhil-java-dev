@@ -1,22 +1,11 @@
 # 💫 About Me:
-I am a passionate software developer with a strong foundation in Object-Oriented Programming and Backend Development. I have completed my MCA from the School of Management Sciences, Varanasi, and I am currently refining my industry-ready skills at QSpiders.
+Java Backend Developer | MCA
 
-My primary focus is on building scalable web applications using Java, Spring Boot, and REST APIs. I enjoy solving complex problems using data structures and have hands-on experience integrating backend applications with databases using Hibernate/JPA.
-
-
-💻 Technical Stack:
-    Backend: Core Java, Spring Boot, Spring MVC, REST APIs, Hibernate/JPA
-    Data Structures: Arrays, Strings, Linked Lists, Trees, Graphs, Algorithms
-    Database: MySQL, Oracle, SQL
-    Frontend: HTML, CSS, JavaScript, React JS
-    Tools: Eclipse, STS, VS Code, Postman, Git/GitHub
-
-🚀 Key Project:
-Full-Stack E-Commerce Application – Currently developing a robust web application featuring RESTful API integration, CRUD operations, user validation, and centralized exception handling.
-
-I am actively seeking opportunities as an Entry-Level Java Developer or Full-Stack Engineer where I can apply my skills and grow in a challenging environment.
-
-📩 Open to opportunities: srivastavanikhil756@gmail.com
+• Java, Spring Boot, REST APIs, Hibernate/JPA
+• Strong in OOP & Data Structures
+• Building scalable backend & full-stack applications
+• Currently developing a Spring Boot + React e-commerce project
+🎯 Open to Entry-Level Java Developer / Full-Stack Engineer roles
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-srivastava-7a2266298) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@NIKHIL) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srivastavanikhil756@gmail.com) 
