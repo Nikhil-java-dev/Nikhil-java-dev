@@ -5,6 +5,7 @@ Java Backend Developer | MCA
 • Strong in OOP & Data Structures
 • Building scalable backend & full-stack applications
 • Currently developing a Spring Boot + React e-commerce project
+
 🎯 Open to Entry-Level Java Developer / Full-Stack Engineer roles
 
 ## 🌐 Socials:
