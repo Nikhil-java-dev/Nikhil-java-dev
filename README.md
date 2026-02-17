@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨‍💻 About Me:
 Java Backend Developer | MCA
 
 • Java, Spring Boot, Spring MVC, REST APIs, Hibernate/JPA  
