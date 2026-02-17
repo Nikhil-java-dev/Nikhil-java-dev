@@ -1,12 +1,9 @@
 # 👨‍💻 About Me:
-Java Backend Developer | MCA
 
-• Java, Spring Boot, Spring MVC, REST APIs, Hibernate/JPA  
-• Strong in OOP & Data Structures  
-• Building scalable backend and full-stack web applications  
-• Currently developing a Spring Boot + React e-commerce project  
+🚀 Java Full-Stack Developer | Spring Boot • React • MySQL  
+💡 Building scalable backend & web applications  
+🎯 Open to Entry-Level Opportunities
 
-🎯 Open to Entry-Level Java Developer / Full-Stack Engineer roles
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-srivastava-7a2266298) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@NIKHIL) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srivastavanikhil756@gmail.com) 
