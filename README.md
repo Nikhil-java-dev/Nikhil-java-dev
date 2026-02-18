@@ -1,11 +1,11 @@
 # 👨‍💻 About Me:
 
-🚀 Java Full-Stack Developer
-⚙️ Spring Boot • React • MySQL
-🧠 Strong in Data Structures & Algorithms (DSA)
-💡 Building scalable backend & web applications
+🚀 Java Full-Stack Developer<br>
+⚙️ Spring Boot • React • MySQL<br>
+🧠 Strong in Data Structures & Algorithms (DSA)<br>
+💡 Building scalable backend & web applications<br>
 
-🎯 Open to Entry-Level Opportunities
+🎯 Open to Entry-Level Opportunities<br>
 
 
 ## 🌐 Socials:
